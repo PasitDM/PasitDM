@@ -10,14 +10,14 @@ A mobile developer with over 4 years of experience in developing financial syste
 * 🧠  I'm learning WordPress development, Backend technologies, Unity game development
 * 🤝  I'm open to collaborating on Mobile applications, Flutter-based solutions, and Fintech projects
 
-
+<!--
 ### Featured Projects
 
 * 💰 [New Kashjoy](link-to-repo) - Enterprise-level loan application system with multi-product support and enhanced security features
 * 👥 [beSMART](link-to-repo) - Comprehensive HR management system featuring location-based attendance tracking and role management
 * 🛍️ [Oriental Princess](link-to-repo) - Large-scale e-commerce platform serving 1M+ users with integrated CRM system
 * 🎮 [CookingGameVR](https://github.com/PasitDM/CookingGameVR) - VR game developed during an internship at Dongseo University using Unity3D and SteamVR
-
+-->
 
 ### Professional Experience
 
