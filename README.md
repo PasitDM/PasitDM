@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PASIT DUANGTHIM
-=======================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PASIT DUANGTHIM
+![](https://komarev.com/ghpvc/?username=PasitDM&color=0891b2&style=flat-square)
 
-Mobile Developer
-----------------
+## Mobile Developer
 
 A mobile developer with over 4 years of experience in developing financial systems, HR solutions, and e-commerce platforms serving more than 1.8M users. Proficient in Flutter development with extensive experience in enterprise-level applications and large-scale systems. Always eager to learn and adapt to new technologies while focusing on delivering high-quality, maintainable code.
 
@@ -17,7 +16,7 @@ A mobile developer with over 4 years of experience in developing financial syste
 * 💰 [New Kashjoy](link-to-repo) - Enterprise-level loan application system with multi-product support and enhanced security features
 * 👥 [beSMART](link-to-repo) - Comprehensive HR management system featuring location-based attendance tracking and role management
 * 🛍️ [Oriental Princess](link-to-repo) - Large-scale e-commerce platform serving 1M+ users with integrated CRM system
-* 🎮 [Papaya Pok Pok](link-to-repo) - VR game developed during internship at Dongseo University using Unity3D and SteamVR
+* 🎮 [CookingGameVR](link-to-repo) - VR game developed during internship at Dongseo University using Unity3D and SteamVR
 
 
 ### Professional Experience
