@@ -61,6 +61,7 @@ A mobile developer with over 4 years of experience in developing financial syste
 #### Project Management
 <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jira" width="36" height="36" alt="Jira"/></a>
+  <a href="https://trello.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/trello" width="36" height="36" alt="Trello"/></a>
 </p>
 
 #### Design Tools
