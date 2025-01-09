@@ -2,38 +2,41 @@
 ![](https://komarev.com/ghpvc/?username=PasitDM&color=0891b2&style=flat-square)
 
 ## Mobile Developer
+A mobile developer with over 4 years of experience developing financial systems, HR solutions, and e-commerce platforms serving more than 1.8M users. Proficient in Flutter development with extensive experience in enterprise-level applications and large-scale systems. Always eager to learn and adapt to new technologies while focusing on delivering high-quality, maintainable code.
 
-A mobile developer with over 4 years of experience in developing financial systems, HR solutions, and e-commerce platforms serving more than 1.8M users. Proficient in Flutter development with extensive experience in enterprise-level applications and large-scale systems. Always eager to learn and adapt to new technologies while focusing on delivering high-quality, maintainable code.
-
-* 🌍  I'm based in Bangkok
+* 🌍  Based in Bangkok
 * ✉️  You can contact me at [pasitmosac@gmail.com](mailto:pasitmosac@gmail.com)
-* 🧠  I'm learning WordPress development, Backend technologies, Unity game development
-* 🤝  I'm open to collaborating on Mobile applications, Flutter-based solutions, and Fintech projects
+* 🧠  Currently learning WordPress development, Backend technologies, Unity game development
+* 🤝  Open to collaborations on Flutter projects and fintech solutions
 
-<!--
-### Featured Projects
+---
+## 📂 Highlighted Projects
 
-* 💰 [New Kashjoy](link-to-repo) - Enterprise-level loan application system with multi-product support and enhanced security features
-* 👥 [beSMART](link-to-repo) - Comprehensive HR management system featuring location-based attendance tracking and role management
-* 🛍️ [Oriental Princess](link-to-repo) - Large-scale e-commerce platform serving 1M+ users with integrated CRM system
-* 🎮 [CookingGameVR](https://github.com/PasitDM/CookingGameVR) - VR game developed during an internship at Dongseo University using Unity3D and SteamVR
--->
+- **SphereFinMobile**  
+  A financial app for managing loans and payments, featuring withdrawal (cardless, bank transfer), secure payment options (QR code, barcode, mobile link), and PDF billing.  
+  🛠️ **Technologies**: Flutter_bloc (Cubit), Get_it, GetX  
+  🔗 [View Repository](#)
 
-### Professional Experience
+- **HRPulseMobile**  
+  A human resource app for attendance tracking, leave requests, and team reporting, with manager approval functionality.  
+  🛠️ **Technologies**: GetX, Get_it  
+  🔗 [View Repository](#)
 
-**Bright Expert & Finkub (2022-2024)**
-* 💰 Led development of multiple loan application systems:
-  - New Kashjoy: New product development
-  - JaiiDee: Enhanced existing product with JIB, JK partnership integration
-  - Kashjoy: System maintenance and feature enhancement
-* 👥 Developed beSMART HR system with comprehensive employee management features
+- **CreditFlowMobile**  
+  A loan management app with eKYC (ID and selfie verification), loan payment tracking, and digital document signing.  
+  🛠️ **Technologies**: Stacked, Get_it, GetX  
+  🔗 [View Repository](#)
 
-**SSUP Holding (2020-2022)**
-* 🛍️ Developed and maintained major e-commerce platforms:
-  - Oriental Princess: 1M+ users
-  - Cute Press: 600K+ users
-  - GNC: 100K+ users with membership system
-* 📱 Created internal store inspection system (Self Audit) for operational quality control
+- **ShopNestMobile**  
+  An e-commerce app supporting multiple brands with features like product browsing, secure payments, multi-language support, and notifications.  
+  🛠️ **Technologies**: Provider  
+  🔗 [View Repository](#)
+
+- **CookingGameVR**  
+  A VR cooking simulator featuring authentic Thai dishes, developed using Unity3D during an internship.  
+  🛠️ **Technologies**: Unity, VR
+  🔗 [View Repository](#)
+---
 
 
 ### Technical
