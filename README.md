@@ -2,40 +2,44 @@
 ![](https://komarev.com/ghpvc/?username=PasitDM&color=0891b2&style=flat-square)
 
 ## Mobile Developer
-A mobile developer with over 4 years of experience developing financial systems, HR solutions, and e-commerce platforms serving more than 1.8M users. Proficient in Flutter development with extensive experience in enterprise-level applications and large-scale systems. Always eager to learn and adapt to new technologies while focusing on delivering high-quality, maintainable code.
+Mobile Developer with experience in Flutter and state management tools like Flutter_bloc (Cubit) and GetX. Skilled in implementing Clean Architecture for enterprise applications, focusing on scalable and maintainable solutions.
 
 * 🌍  Based in Bangkok
 * ✉️  You can contact me at [pasitmosac@gmail.com](mailto:pasitmosac@gmail.com)
 * 🧠  Currently learning WordPress development, Backend technologies, Unity game development
-* 🤝  Open to collaborations on Flutter projects and fintech solutions
+* 🤝  Open to collaborations on Flutter projects.
 
 ---
 ## 📂 Highlighted Projects
 
 - **SphereFinMobile**  
-  A financial app for managing loans and payments, featuring withdrawal (cardless, bank transfer), secure payment options (QR code, barcode, mobile link), and PDF billing.  
-  🛠️ **Technologies**: Flutter_bloc (Cubit), Get_it, GetX  
-  🔗 [View Repository](#)
+  A financial app with features like secure withdrawals (cardless, bank transfer), QR/barcode payments, and PDF billing.  
+  🛠️ **Technologies**: Flutter_bloc (Cubit), Get_it, GetX, Firebase, Fastlane, Multi-flavors  
+  🔗 [View Repository](https://github.com/PasitDM/SphereFinMobile)
 
 - **HRPulseMobile**  
-  A human resource app for attendance tracking, leave requests, and team reporting, with manager approval functionality.  
-  🛠️ **Technologies**: GetX, Get_it  
-  🔗 [View Repository](#)
+  An HR app for attendance tracking, leave requests, and approval workflows.  
+  🛠️ **Technologies**: GetX, Get_it, Firebase, Fastlane, Multi-flavors  
+  🔗 [View Repository](https://github.com/PasitDM/HRPulseMobile)
 
+<!--
 - **CreditFlowMobile**  
   A loan management app with eKYC (ID and selfie verification), loan payment tracking, and digital document signing.  
   🛠️ **Technologies**: Stacked, Get_it, GetX  
   🔗 [View Repository](#)
+-->
 
+<!--
 - **ShopNestMobile**  
   An e-commerce app supporting multiple brands with features like product browsing, secure payments, multi-language support, and notifications.  
   🛠️ **Technologies**: Provider  
   🔗 [View Repository](#)
+-->
 
 - **CookingGameVR**  
-  A VR cooking simulator featuring authentic Thai dishes, developed using Unity3D during an internship.  
-  🛠️ **Technologies**: Unity, VR
-  🔗 [View Repository](#)
+  A VR cooking simulator developed during an internship, showcasing authentic Thai dishes with interactive gameplay.  
+  🛠️ **Technologies**: Unity, VR  
+  🔗 [View Repository](https://github.com/PasitDM/CookingGameVR)
 ---
 
 
