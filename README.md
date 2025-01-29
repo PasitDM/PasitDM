@@ -29,12 +29,12 @@ Mobile Developer with experience in Flutter and state management tools like Flut
   🔗 [View Repository](#)
 -->
 
-<!--
+
 - **ShopNestMobile**  
-  An e-commerce app supporting multiple brands with features like product browsing, secure payments, multi-language support, and notifications.  
+  An e-commerce app supporting multiple brands with features like product browsing, payments, multi-language support, and notifications.  
   🛠️ **Technologies**: Provider  
-  🔗 [View Repository](#)
--->
+  🔗 [View Repository](https://github.com/PasitDM/ShopNestMobile)
+
 
 - **CookingGameVR**  
   A VR cooking simulator developed during an internship, showcasing authentic Thai dishes with interactive gameplay.  
