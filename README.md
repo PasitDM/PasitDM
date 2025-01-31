@@ -12,10 +12,10 @@ Mobile Developer with experience in Flutter and state management tools like Flut
 ---
 ## 📂 Highlighted Projects
 
-- **SphereFinMobile**  
+- **SphereFinnMobile**  
   A financial app with features like secure withdrawals (cardless, bank transfer), QR/barcode payments, and PDF billing.  
   🛠️ **Technologies**: Flutter_bloc (Cubit), Get_it, GetX, Firebase, Fastlane, Multi-flavors  
-  🔗 [View Repository](https://github.com/PasitDM/SphereFinMobile)
+  🔗 [View Repository](https://github.com/PasitDM/SphereFinnMobile)
 
 - **HRPulseMobile**  
   An HR app for attendance tracking, leave requests, and approval workflows.  
