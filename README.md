@@ -22,12 +22,12 @@ Mobile Developer with experience in Flutter and state management tools like Flut
   🛠️ **Technologies**: GetX, Get_it, Firebase, Fastlane, Multi-flavors  
   🔗 [View Repository](https://github.com/PasitDM/HRPulseMobile)
 
-<!--
+
 - **CreditFlowMobile**  
   A loan management app with eKYC (ID and selfie verification), loan payment tracking, and digital document signing.  
   🛠️ **Technologies**: Stacked, Get_it, GetX  
   🔗 [View Repository](#)
--->
+
 
 
 - **ShopNestMobile**  
