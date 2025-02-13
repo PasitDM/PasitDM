@@ -26,7 +26,7 @@ Mobile Developer with experience in Flutter and state management tools like Flut
 - **CreditFlowMobile**  
   A loan management app with eKYC (ID and selfie verification), loan payment tracking, and digital document signing.  
   🛠️ **Technologies**: Stacked, Get_it, GetX  
-  🔗 [View Repository](#)
+  🔗 [View Repository](https://github.com/PasitDM/CreditFlowMobile)
 
 
 
